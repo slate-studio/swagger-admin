@@ -7,14 +7,14 @@ var gulp         = require('gulp'),
 gulp.task('rename-script', function () {
   return gulp.src('dist/*.js')
     .pipe(rimraf())
-    .pipe(rename('bundle.js'))
+    .pipe(rename('swagger-admin.js'))
     .pipe(gulp.dest('./dist'));
 });
 
 gulp.task('rename-css', function () {
   return gulp.src('dist/*.css')
     .pipe(rimraf())
-    .pipe(rename('bundle.css'))
+    .pipe(rename('swagger-admin.css'))
     .pipe(gulp.dest('./dist'));
 });
 

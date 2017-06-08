@@ -1,6 +1,6 @@
 {
   "name": "swagger-admin",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "",
   "description": "Swagger admin module",
   "main": "index.js",
