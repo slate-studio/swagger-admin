@@ -1,0 +1,20 @@
+{
+  "assets": {
+    "admin.js": "admin-eaa506030d84cbc91fe2cc17d8072814.js",
+    "admin.css": "admin-8fc64e255fc7dd3b81a7be449b1fbc17.css"
+  },
+  "files": {
+    "admin-eaa506030d84cbc91fe2cc17d8072814.js": {
+      "logical_path": "admin.js",
+      "mtime": "2017-06-07T14:24:15.000Z",
+      "size": 1354516,
+      "digest": "eaa506030d84cbc91fe2cc17d8072814"
+    },
+    "admin-8fc64e255fc7dd3b81a7be449b1fbc17.css": {
+      "logical_path": "admin.css",
+      "mtime": "2017-06-07T09:15:30.000Z",
+      "size": 40398,
+      "digest": "8fc64e255fc7dd3b81a7be449b1fbc17"
+    }
+  }
+}
