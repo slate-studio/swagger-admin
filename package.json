@@ -16,15 +16,10 @@
   },
   "license": "ISC",
   "dependencies": {
+    "connect-assets": "^5.4.0"
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
     "gulp-coffee": "^2.3.4",
-    "gulp-concat": "^2.6.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-rimraf": "^0.2.1",
-    "gulp-sass": "^3.1.0",
-    "gulp-sequence": "^0.4.6",
-    "connect-assets": "^5.4.0"
+    "gulp-sass": "^3.1.0"
   }
 }

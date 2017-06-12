@@ -2,4 +2,4 @@
 ## Install
 ```npm install```
 ## Build
-```gulp```
+```node build```
